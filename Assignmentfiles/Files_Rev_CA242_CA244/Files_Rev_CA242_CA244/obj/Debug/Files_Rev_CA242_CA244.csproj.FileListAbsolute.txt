@@ -1,0 +1,10 @@
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\bin\Debug\Files_Rev_CA242_CA244.exe.config
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\bin\Debug\Files_Rev_CA242_CA244.exe
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\bin\Debug\Files_Rev_CA242_CA244.pdb
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\obj\Debug\Files_Rev_CA242_CA244.csproj.AssemblyReference.cache
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\obj\Debug\Files_Rev_CA242_CA244.Form1.resources
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\obj\Debug\Files_Rev_CA242_CA244.Properties.Resources.resources
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\obj\Debug\Files_Rev_CA242_CA244.csproj.GenerateResource.cache
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\obj\Debug\Files_Rev_CA242_CA244.csproj.CoreCompileInputs.cache
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\obj\Debug\Files_Rev_CA242_CA244.exe
+D:\C#\Last_Update_C#\Last_Slides_2026\CA244\Files_Rev_CA242_CA244\Files_Rev_CA242_CA244\obj\Debug\Files_Rev_CA242_CA244.pdb
